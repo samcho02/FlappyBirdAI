@@ -5,6 +5,8 @@ A simple Flappy Bird AI that utilizes NeuroEvolution of Augmenting Topologies (N
 I do not own this project and all of the rights are reserved to Tech with Tim. It is entirely for educational / record purposes for my future projects.
 
 ## Example
+![Screenshot 2024-01-08 at 6 35 05 PM](https://github.com/samcho02/FlappyBirdAI/assets/100737807/08c14225-0f26-4361-8470-402391a296fd)
+
 ![image](https://github.com/samcho02/FlappyBirdAI/assets/100737807/efd23eba-395e-44ea-88ef-19a3032e630b)
 
 ## NEAT Configurations
