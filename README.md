@@ -1,5 +1,5 @@
 # Flappy Bird AI using NEAT
-A simple Flappy Bird AI that utilizes NeuroEvolution of Augmenting Topologies (NEAT) method. NEAT is an efficient artificial neural model, which can outperform other methods when given a reinforcement learning task such as double pole balancing task. This AI strives to create population of "Flappy Birds" to survive the longest over the course of multiple generations. When given over 100 population size, the AI seemed to beat the game within 2 generations, given the game is considered to be a simple task. The Flappy Bird is created with PyGame module.
+A simple Flappy Bird AI that utilizes NeuroEvolution of Augmenting Topologies (NEAT) method. NEAT is an efficient artificial neural model, which can outperform most of the other methods when given a reinforcement learning task such as double pole balancing task. This AI strives to create population of "Flappy Birds" to survive the longest over the course of multiple generations. When given over 100 population size, the AI seemed to beat the game within 2 generations, given the game is considered to be a simple task. The Flappy Bird is created with PyGame module.
 
 ## Disclaimer
 I do not own this project and all of the rights are reserved to Tech with Tim. It is entirely for educational / record purposes for my future projects.
